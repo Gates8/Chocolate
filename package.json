@@ -1,0 +1,17 @@
+{
+  "name": "Chocolate Bot",
+  "version": "2.0",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.0.9",
+    "enmap-sqlite": "^2.0.5",
+    "fortnite": "^4.1.1",
+    "inquirer": "^6.2.0",
+    "klaw": "^3.0.0",
+    "logger": "0.0.1",
+    "moment": "^2.22.2",
+    "npm": "^6.4.1",
+    "path": "^0.12.7"
+  }
+}
